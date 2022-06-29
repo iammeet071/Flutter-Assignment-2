@@ -1,0 +1,64 @@
+{
+  "bankname": [
+    {
+      "id": 1,
+      "name": "HDFC Bank",
+      "type": "Saving A/C",
+      "balance": "₹ 50,000",
+      "image": "assets/images/hdfc.jpg",
+      "accountno": "xx2652"
+    },
+    {
+      "id": 2,
+      "name": "Federal Bank",
+      "type": "Saving A/C",
+      "balance": "₹ 1,50,000",
+      "image": "assets/images/federal.jpg",
+      "accountno": "xx2718"
+    }
+  ],
+  "banktrans": [
+    {
+      "id": 1,
+      "name": "ATM Withdrawal",
+      "date": "22/02/2022",
+      "amount": "₹ 5,000",
+      "type": "Outgoing"
+    },
+    {
+      "id": 1,
+      "name": "ATM Withdrawal",
+      "date": "22/02/2022",
+      "amount": "₹ 1,000",
+      "type": "Outgoing"
+    },
+    {
+      "id": 1,
+      "name": "ATM Deposit",
+      "date": "22/02/2022",
+      "amount": "₹ 11,000",
+      "type": "Incoming"
+    },
+    {
+      "id": 2,
+      "name": "ATM Deposit",
+      "date": "22/02/2022",
+      "amount": "₹ 11,000",
+      "type": "Incoming"
+    },
+    {
+      "id": 2,
+      "name": "ATM Withdrawal",
+      "date": "22/02/2022",
+      "amount": "₹ 5,000",
+      "type": "Outgoing"
+    },
+    {
+      "id": 2,
+      "name": "ATM Withdrawal",
+      "date": "22/02/2022",
+      "amount": "₹ 1,000",
+      "type": "Outgoing"
+    }
+  ]
+}
